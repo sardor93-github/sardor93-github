@@ -1,1 +1,1 @@
-Hi, I'm Akramov Sardor <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+Hi, I'm Akramov Sardor <img width="35px" height="35px" src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gt9e6uzbsacox82aoe9i5lr921unrg9sfhru47gn&ep=v1_stickers_search&rid=giphy.gif&ct=s">
