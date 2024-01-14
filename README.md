@@ -2,7 +2,7 @@ Hi, I'm Akramov Sardor <img width="35px" height="35px" src="https://media4.giphy
 
 <strong align="center">You can visit my page</strong>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer+Dean👨‍💻;Based+in+Gwangju,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer+Robert👨‍💻;Based+in+Gwangju,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
 </div>
 
 <a href="https://www.instagram.com/sirojiddin8617/">
